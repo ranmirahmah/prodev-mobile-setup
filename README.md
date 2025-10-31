@@ -1,3 +1,44 @@
+
+# Steps for scaffolding
+1. Installed Node.js (LTS version)
+2. Installed Expo CLI (Expo development tool)
+3. Created a new project.
+4. Navigated into my new project
+5. Started the Expo development server
+
+
+# Resetting the Application
+1. The app relòaded and errors are in the app folder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
